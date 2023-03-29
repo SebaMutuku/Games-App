@@ -1,7 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+#About Games App
+This is a react typescript app that queries data from an API and displays it in a form of a table for users and clients to view 
 ## Available Scripts
 
 In the project directory, you can run:
