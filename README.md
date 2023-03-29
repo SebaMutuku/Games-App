@@ -1,4 +1,4 @@
-#About Games App
+# About Games App
 This is a react typescript app that queries data from an API and displays it in a form of a table for users and clients to view 
 ## Available Scripts
 
